@@ -1,0 +1,6 @@
+@ProductBlazorMongoDB.Service_HostAddress = http://localhost:5133
+
+GET {{ProductBlazorMongoDB.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
